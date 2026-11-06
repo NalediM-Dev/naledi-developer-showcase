@@ -776,7 +776,7 @@ function App() {
     </div>
 
  <a
-  href="/Naledi_Motshabi_Software_Developer_CV.pdf"
+  href="/Naledi_Motshabi_Full_Stack_Developer_CV.pdf"
   download
   className="cv-download-button"
 >
